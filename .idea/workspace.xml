@@ -173,30 +173,42 @@
       <option name="project" value="LOCAL" />
       <updated>1601961583869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Start the Store Information Activity">
+      <created>1601962951881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601962951881</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Run Successfully" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Run Successfully" />
+    <MESSAGE value="Start the Store Information Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the Store Information Activity" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1400" height="660" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601963425995">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="100" width="1400" height="660" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1601963425995" />
     <state x="648" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601959443076">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="648" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1601959443076" />
-    <state x="333" y="24" key="CommitChangelistDialog2" timestamp="1601961572737">
+    <state x="333" y="24" key="CommitChangelistDialog2" timestamp="1601962936544">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="333" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601961572737" />
+    <state x="333" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601962936544" />
     <state x="301" y="72" key="SettingsEditor" timestamp="1601960505195">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601960505195" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601961608045">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601963056153">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601961608045" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601963056153" />
     <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1601959345115">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
