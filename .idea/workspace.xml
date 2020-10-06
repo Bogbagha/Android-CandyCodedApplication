@@ -77,7 +77,7 @@
       <recent name="com.pluralsight.candycoded" />
     </key>
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -104,6 +104,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -185,6 +201,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -230,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601979460840</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Start the Store Information Activity">
+      <created>1601993764093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601993764093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,34 +275,34 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="648" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1601959443076" />
-    <state x="333" y="24" key="CommitChangelistDialog2" timestamp="1601979440443">
+    <state x="333" y="24" key="CommitChangelistDialog2" timestamp="1601993744576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="333" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601979440443" />
-    <state width="1540" height="220" key="GridCell.Tab.0.bottom" timestamp="1601993635461">
+    <state x="333" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601993744576" />
+    <state width="1540" height="220" key="GridCell.Tab.0.bottom" timestamp="1601999861895">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1540" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601993635461" />
-    <state width="1540" height="220" key="GridCell.Tab.0.center" timestamp="1601993635461">
+    <state width="1540" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601999861895" />
+    <state width="1540" height="220" key="GridCell.Tab.0.center" timestamp="1601999861895">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1540" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601993635461" />
-    <state width="1540" height="220" key="GridCell.Tab.0.left" timestamp="1601993635461">
+    <state width="1540" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601999861895" />
+    <state width="1540" height="220" key="GridCell.Tab.0.left" timestamp="1601999861895">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1540" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601993635461" />
-    <state width="1540" height="220" key="GridCell.Tab.0.right" timestamp="1601993635461">
+    <state width="1540" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601999861895" />
+    <state width="1540" height="220" key="GridCell.Tab.0.right" timestamp="1601999861895">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1540" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601993635461" />
+    <state width="1540" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601999861895" />
     <state x="301" y="72" key="SettingsEditor" timestamp="1601960505195">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601960505195" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601979470564">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601993794264">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601979470564" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601993794264" />
     <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1601959345115">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
